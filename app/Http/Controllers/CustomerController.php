@@ -55,7 +55,7 @@ class CustomerController extends Controller
         $customer->image = $file_name;
 
         $customer->save();
-        return redirect()->route('index.index')->with('success', "Customers Added successfully.");
+        return redirect()->route('admin.index')->with('success', "Customers Added successfully.");
     }
 
     /**
