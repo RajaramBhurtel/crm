@@ -65,5 +65,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 database: crm.sql
-Admin: admin@admin.com / admin123
+Admin: admin@gmail.com / admin123
 User: sabinbhurtel@gmail.com / sabin123
